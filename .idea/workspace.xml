@@ -6,7 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cb733b4-31de-45ea-974f-a6db84d55dbc" name="Default Changelist" comment="" />
+    <list default="true" id="3cb733b4-31de-45ea-974f-a6db84d55dbc" name="Default Changelist" comment="fixed some bugs, renamed Tabs.Page class to Tab">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/posidon.mangoTK.mangoTK.linuxTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/posidon.mangoTK.mangoTK.linuxTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,10 +301,10 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="1440" y="203" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1586945815875" />
-    <state x="1416" y="127" width="997" height="858" key="CommitChangelistDialog2" timestamp="1587133276154">
+    <state x="1416" y="127" width="997" height="858" key="CommitChangelistDialog2" timestamp="1588170622442">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1416" y="127" width="997" height="858" key="CommitChangelistDialog2/0.30.2560.1050@0.30.2560.1050" timestamp="1587133276154" />
+    <state x="1416" y="127" width="997" height="858" key="CommitChangelistDialog2/0.30.2560.1050@0.30.2560.1050" timestamp="1588170622442" />
     <state x="502" y="121" width="2048" height="873" key="DiffContextDialog" timestamp="1586945115909">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
@@ -306,14 +313,14 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="1521" y="313" width="585" height="508" key="FileChooserDialogImpl/0.30.2560.1050@0.30.2560.1050" timestamp="1585744690282" />
-    <state x="1029" y="696" width="520" height="274" key="Github.ShareDialog" timestamp="1588167477289">
+    <state x="1029" y="696" width="520" height="274" key="Github.ShareDialog" timestamp="1588167809425">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1029" y="696" width="520" height="274" key="Github.ShareDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1588167477289" />
-    <state x="1536" y="257" width="757" height="599" key="Github.UntrackedFilesDialog" timestamp="1586682359294">
+    <state x="1029" y="696" width="520" height="274" key="Github.ShareDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1588167809425" />
+    <state x="1536" y="257" width="757" height="599" key="Github.UntrackedFilesDialog" timestamp="1588167853216">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1536" y="257" width="757" height="599" key="Github.UntrackedFilesDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1586682359294" />
+    <state x="1536" y="257" width="757" height="599" key="Github.UntrackedFilesDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1588167853216" />
     <state width="1238" height="286" key="GridCell.Tab.0.bottom" timestamp="1587458426225">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>

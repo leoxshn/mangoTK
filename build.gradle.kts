@@ -1,5 +1,5 @@
 plugins {
-    kotlin("multiplatform") version "1.3.71"
+    kotlin("multiplatform") version "1.3.72"
 }
 
 group = "posidon.mangoTK"
@@ -7,11 +7,14 @@ version = "0.0.1"
 
 repositories {
     mavenCentral()
+    jcenter()
+    gradlePluginPortal()
+    maven { url = uri("https://dl.bintray.com/orangy/maven") }
 }
 
 kotlin {
     linuxX64("linux") {
-        binaries { executable { entryPoint = "posidon.texter.main" } }
+        //binaries { executable { entryPoint = "posidon.texter.main" } }
         compilations["main"].cinterops {
             val gtk3 by creating {
                 listOf("/opt/local/include", "/usr/include", "/usr/local/include").forEach {
